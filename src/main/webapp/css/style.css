@@ -1,0 +1,49 @@
+#boxes {
+    content: "";
+    display: table;
+    clear: both;
+}
+div {
+    float: left;
+    padding: 0 10px;
+}
+#column1 {
+    background-color: #ffd17f;
+    height: 500px;
+    width: 23%;
+}
+#column2 {
+    background-color: #D3d3d3;
+    height: 500px;
+    width: 72%;
+}
+#column3 {
+    background-color: #f497f1;
+}
+h1 {
+
+
+}
+#top{
+    color: orange;
+    background-color: #0F0F80FF;
+    height: 100px;
+    width: 97.25%;
+    padding: 0 10px;
+}
+#bottom{
+    color: white;
+    background-color: #0F0F80FF;
+    height: 100px;
+    width: 97.25%;
+    padding: 0 10px;
+    text-align: center;
+}
+button{
+    color: white;
+    background-color: #0F0F80FF;
+    height: 35px;
+    width: 90%;
+    text-align: center;
+
+}
